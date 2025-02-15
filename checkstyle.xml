@@ -4,7 +4,7 @@
 
 <module name="Checker">
 	<module name="TreeWalker">
-		<module name="SuppressionCommentFilter" />
+		<module name="SuppressionCommentFilter"  />
 		<module name="ConstantName" />
 		<module name="EmptyBlock" />
 		<module name="PackageName" />
