@@ -10,7 +10,7 @@
 		<module name="PackageName" />
 		<module name="MethodName" />
 		<module name="TypeName">
-			<property name="format" value="^[A-Z][a-zA-Z0-9]*$" />
+			<property name="format" value="^[A-Z][a-zA-Z0-9]*$" / >
 			<message key="name.invalidPattern"
 				value="Class or interface name does not match naming convention" />
 		</module>
