@@ -7,7 +7,7 @@
 .settings/
 bin/
 # Intellij
-.idea/
+
 *.iml
 *.iws
 # Mac
