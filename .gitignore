@@ -3,8 +3,7 @@
 .project
 # Eclipse
 .classpath
-.project
-.settings/
+.projec
 bin/
 # Intellij
 .idea/
